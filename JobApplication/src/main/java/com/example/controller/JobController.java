@@ -1,5 +1,7 @@
-package com.example;
+package com.example.controller;
 
+import com.example.model.JobPost;
+import com.example.service.JobService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
